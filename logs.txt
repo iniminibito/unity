@@ -1,0 +1,3 @@
+2.19.2022
+* Made a basic mirror using this tutorial (https://www.youtube.com/watch?v=pcIpGo6U2s0)
+* Figured out how to record using this tutorial (https://www.youtube.com/watch?v=2HVhnh93JZY)
