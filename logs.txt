@@ -1,3 +1,8 @@
 2.19.2022
 * Made a basic mirror using this tutorial (https://www.youtube.com/watch?v=pcIpGo6U2s0)
 * Figured out how to record using this tutorial (https://www.youtube.com/watch?v=2HVhnh93JZY)
+
+2.20.2022
+* Made a basic bouncing ball animation. 
+* Tried another attempt at mirroring, but it was to no avail. 
+* Tomorrow, I should try to straighten out a pipeline for producing a project. 
